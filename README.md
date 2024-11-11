@@ -32,12 +32,12 @@ Project Stages:
 Abstract
 Literature Review
 Initial Code and Results
-		- Installed and imported packages
-		- Loaded dataset
-		- Data pre-processing and data cleaning
-		- Exploratory data analysis
-		- Dimensionality reduction
-		- classification algorithms run on dimensionally reduced datasets
+		(- Installed and imported packages,
+		- Loaded dataset,
+		- Data pre-processing and data cleaning,
+		- Exploratory data analysis,
+		- Dimensionality reduction,
+		- classification algorithms run on dimensionally reduced datasets)
 Final Results
 
 

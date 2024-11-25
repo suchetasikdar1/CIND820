@@ -9,6 +9,7 @@ Repository contents:
 -Initial Analysis and Code ipynb
 -Initial Analysis and Code PDF format
 -Video explaining Initial Analysis and Code
+-Final Presentation PDF and Power Point versions
 -Read me file
 
 ## Project Info

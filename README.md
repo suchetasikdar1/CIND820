@@ -10,6 +10,7 @@ Repository contents:
 -Initial Analysis and Code PDF format
 -Video explaining Initial Analysis and Code
 -Final Presentation PDF and Power Point versions
+-Final Report PDF and Word format
 -Read me file
 
 ## Project Info
